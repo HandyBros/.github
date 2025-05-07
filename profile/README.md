@@ -1,4 +1,4 @@
-![Handy Bros](https://www.handybros.com/wp-content/uploads/2024/08/logo.png)
+![Handy Bros](../Logo.png)
 ## Handy Bros Home Comfort
 Home Comfort Done Differently, Since 1959.
 
